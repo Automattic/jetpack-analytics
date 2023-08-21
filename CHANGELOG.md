@@ -9,6 +9,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Publish package to npmjs.com.
 
+### Changed
+- Updated package dependencies.
+
 ## 0.1.25 - 2023-03-08
 ### Changed
 - Updated package dependencies. [#29289]
